@@ -1,0 +1,28 @@
+body {
+	background-color: lightgrey;
+}
+
+#image {
+	height: 35%;
+	width: 35%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
+
+#title {
+	text-align: center;
+	font-size: 200%;
+}
+
+#content {
+	color: black;
+	font-size: 120%;
+	text-align: center;
+}
+
+#videotitle {
+	font-size: 125%;
+	text-align: center;
+}
